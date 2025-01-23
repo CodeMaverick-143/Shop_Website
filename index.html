@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#4caf50">
   <title>Puja Flower Shop</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Poppins:wght@300;400;600&display=swap');
   </style>
-  <!-- Swiper CSS -->
+  <link rel="manifest" href="/manifest.json">
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 </head>
 <body class="bg-gray-50 font-[Poppins]">
@@ -20,11 +21,10 @@
         <li><a href="#about" class="hover:text-pink-500">About</a></li>
         <li class="relative">
           <a href="#products" class="hover:text-pink-500" id="products-link">Products</a>
-          <!-- Dropdown -->
           <ul id="products-dropdown" class="absolute left-0 hidden mt-2 bg-white rounded-lg shadow-lg">
             <li><a href="#bouquets" class="block px-4 py-2 hover:bg-pink-100 text-gray-700" onclick="scrollToSection('bouquets')">Bouquets</a></li>
             <li><a href="#garlands" class="block px-4 py-2 hover:bg-pink-100 text-gray-700" onclick="scrollToSection('garlands')">Garlands</a></li>
-            <li><a href="#sehra" class="block px-4 py-2 hover:bg-pink-100 text-gray-700" onclick="scrollToSection('sehra')">Sehra</a></li>
+            <li><a href="#decor" class="block px-4 py-2 hover:bg-pink-100 text-gray-700" onclick="scrollToSection('decor')">Decor</a></li>
             <li><a href="#many_more" class="block px-4 py-2 hover:bg-pink-100 text-gray-700" onclick="scrollToSection('many_more')">Many More</a></li>
           </ul>
         </li>
@@ -34,35 +34,32 @@
     </div>
   </nav>
 
- <!-- Hero Section -->
-<section class="relative h-screen bg-cover bg-center" style="background-image: url('/photo/hero_background.jpeg');">
-    <div class="absolute inset-0 bg-black bg-opacity-40"></div> <!-- Optional dark overlay -->
+  <!-- Hero Section -->
+  <section class="relative h-screen bg-cover bg-center" style="background-image: url('/photo/hero_background.jpeg');">
+    <div class="absolute inset-0 bg-black bg-opacity-40"></div>
     <div class="relative max-w-3xl mx-auto text-center text-white flex flex-col justify-center items-center h-full px-4">
       <h1 class="text-5xl font-serif font-[Merriweather] mb-4">Fresh Flowers for Every Puja</h1>
       <p class="text-lg font-[Poppins] mb-6">Elevate your spiritual rituals with our handpicked fresh flowers.</p>
       <a href="#products" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-6 rounded-lg transition">Explore More</a>
     </div>
   </section>
-  
 
   <!-- About Section -->
   <section id="about" class="py-16 bg-pink-50">
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
       <div>
         <h2 class="text-3xl font-serif font-[Merriweather] text-green-700 mb-4">About Us</h2>
-        <p class="text-gray-700 text-lg font-[Poppins]">At Puja Flower Shop, we specialize in providing the freshest, most vibrant flowers for all your spiritual needs. Each flower is handpicked to ensure the highest quality for your rituals and celebrations.</p>
+        <p class="text-gray-700 text-lg font-[Poppins]">At Puja Flower Shop, we specialize in providing the freshest, most vibrant flowers for all your spiritual needs. Each flower is handpicked to ensure the highest quality for your rituals and celebrations.<b>(*Only Operates in Ranchi)</b></p>
       </div>
       <img src="/photo/flower3.jpg" alt="Flowers" class="rounded-lg shadow-lg object-cover" style="height:250px;width:350px;border-radius:10%;margin-left:100px;">
     </div>
   </section>
-  
 
-<!-- Product Display Section -->
-<section id="products" class="py-16">
+  <!-- Product Display Section -->
+  <section id="products" class="py-16">
     <div class="max-w-7xl mx-auto px-6">
       <h2 class="text-3xl font-serif font-[Merriweather] text-green-700 text-center mb-12">Our Products</h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10">
-        <!-- Bouquets Section -->
         <a href="#bouquets-details" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
           <img src="/photo/boquet.jpeg" alt="Flower Bouquets" class="w-full h-56 object-cover">
           <div class="p-6">
@@ -70,7 +67,6 @@
             <p class="text-gray-600 text-base font-[Poppins]">Beautiful hand-arranged flower bouquets perfect for any occasion.</p>
           </div>
         </a>
-        <!-- Garlands Section -->
         <a href="#garlands-details" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
           <img src="/photo/garland.jpeg" alt="Flower Garlands" class="w-full h-56 object-cover">
           <div class="p-6">
@@ -78,7 +74,6 @@
             <p class="text-gray-600 text-base font-[Poppins]">Customizable garlands made with fresh flowers for your rituals.</p>
           </div>
         </a>
-        <!-- Car Decor Section -->
         <a href="#car-decor-details" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
           <img src="/photo/decor.jpeg" alt="Car Decor" class="w-full h-56 object-cover">
           <div class="p-6">
@@ -86,7 +81,6 @@
             <p class="text-gray-600 text-base font-[Poppins]">Elegant floral arrangements to beautifully decorate your car for special occasions.</p>
           </div>
         </a>
-        <!-- Many More Section -->
         <a href="#many-more-details" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
           <img src="/photo/more.jpg" alt="Many More" class="w-full h-56 object-cover">
           <div class="p-6">
@@ -94,69 +88,6 @@
             <p class="text-gray-600 text-base font-[Poppins]">A wide variety of other floral offerings for all occasions.</p>
           </div>
         </a>
-      </div>
-      <!-- Show More Button -->
-      <div class="mt-12 text-center">
-        <button class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-8 rounded-lg font-[Poppins] text-lg transition">
-          Show More
-        </button>
-      </div>
-    </div>
-  </section>
-  
-  
-  
-  <!-- Testimonials Section -->
-  <section id="testimonials" class="py-16 bg-yellow-50">
-    <div class="max-w-7xl mx-auto px-6">
-      <h2 class="text-3xl font-serif font-[Merriweather] text-green-700 text-center mb-12">What Our Customers Say...</h2>
-      <div class="swiper-container">
-        <div class="swiper-wrapper">
-          <!-- Testimonial Slide 1 -->
-          <div class="swiper-slide p-6 bg-white rounded-lg shadow-md">
-            <div class="flex items-center mb-4">
-              <img src="https://source.unsplash.com/50x50/?woman" alt="Customer" class="rounded-full">
-              <div class="ml-4">
-                <h3 class="font-medium font-[Merriweather] text-gray-800">Anjali S.</h3>
-                <p class="text-sm text-gray-600 font-[Poppins]">Delhi, India</p>
-              </div>
-            </div>
-            <p class="text-gray-700 font-[Poppins]">"The flowers are absolutely beautiful and fresh. Perfect for pujas! Highly recommend their garlands."</p>
-          </div>
-          <!-- Testimonial Slide 2 -->
-          <div class="swiper-slide p-6 bg-white rounded-lg shadow-md">
-            <div class="flex items-center mb-4">
-              <img src="https://source.unsplash.com/50x50/?man" alt="Customer" class="rounded-full">
-              <div class="ml-4">
-                <h3 class="font-medium font-[Merriweather] text-gray-800">Rahul K.</h3>
-                <p class="text-sm text-gray-600 font-[Poppins]">Ranchi, India</p>
-              </div>
-            </div>
-            <p class="text-gray-700 font-[Poppins]">"Their car decor flowers were amazing! The decorations were vibrant and classy. Thank you!"</p>
-          </div>
-          <!-- Testimonial Slide 3 -->
-          <div class="swiper-slide p-6 bg-white rounded-lg shadow-md">
-            <div class="flex items-center mb-4">
-              <img src="https://source.unsplash.com/50x50/?woman" alt="Customer" class="rounded-full">
-              <div class="ml-4">
-                <h3 class="font-medium font-[Merriweather] text-gray-800">Priya D.</h3>
-                <p class="text-sm text-gray-600 font-[Poppins]">Mumbai, India</p>
-              </div>
-            </div>
-            <p class="text-gray-700 font-[Poppins]">"I bought flower bouquets for my event, and they were stunning. Excellent quality and service!"</p>
-          </div>
-          <!-- Testimonial Slide 4 -->
-          <div class="swiper-slide p-6 bg-white rounded-lg shadow-md">
-            <div class="flex items-center mb-4">
-              <img src="https://source.unsplash.com/50x50/?man" alt="Customer" class="rounded-full">
-              <div class="ml-4">
-                <h3 class="font-medium font-[Merriweather] text-gray-800">Vikram T.</h3>
-                <p class="text-sm text-gray-600 font-[Poppins]">Bengaluru, India</p>
-              </div>
-            </div>
-            <p class="text-gray-700 font-[Poppins]">"The garlands were perfect for our family wedding. Fresh and fragrant flowers that lasted all day!"</p>
-          </div>
-        </div>
       </div>
     </div>
   </section>
@@ -166,77 +97,18 @@
     <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-3 gap-10">
       <div>
         <h3 class="text-lg font-medium font-[Merriweather]">Puja Flower Shop</h3>
-        <p class="text-sm mt-4 font-[Poppins]">123 Spiritual Lane, Delhi, India</p>
-        <p class="text-sm font-[Poppins]">Phone: +91 9876543210</p>
-        <p class="text-sm font-[Poppins]">Email: contact@pujaflowershop.com</p>
-      </div>
-      <div>
-        <h3 class="text-lg font-medium font-[Merriweather]">Follow Us</h3>
-        <div class="flex space-x-4 mt-4">
-          <a href="#" class="hover:text-pink-500 font-[Poppins]">Facebook</a>
-          <a href="#" class="hover:text-pink-500 font-[Poppins]">Instagram</a>
-          <a href="#" class="hover:text-pink-500 font-[Poppins]">Twitter</a>
-        </div>
-      </div>
-      <div>
-        <h3 class="text-lg font-medium font-[Merriweather]">Subscribe to Our Newsletter</h3>
-        <form class="mt-4">
-          <input type="email" placeholder="Your email" class="w-full p-2 rounded-lg mb-4 font-[Poppins]">
-          <button type="submit" class="bg-pink-500 text-white py-2 px-4 rounded-lg hover:bg-pink-600 transition w-full font-[Poppins]">Subscribe</button>
-        </form>
+        <p class="text-sm mt-4 font-[Poppins]">Kokar Chowk, Ranchi, India</p>
       </div>
     </div>
   </footer>
 
-  <!-- Swiper JS -->
-  <link
-  rel="stylesheet"
-  href="https://unpkg.com/swiper/swiper-bundle.min.css"
-/>
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-  <!-- Swiper Initialization -->
+  <!-- JavaScript -->
   <script>
-    var swiper = new Swiper('.swiper-container', {
-      slidesPerView: 1,
-      spaceBetween: 10,
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev'
-      },
-      pagination: {
-        el: '.swiper-pagination',
-        clickable: true
-      },
-      loop: true
-    });
-
-    // Smooth Scroll to Section
-    function scrollToSection(sectionId) {
-      const section = document.getElementById(sectionId);
-      if (section) {
-        window.scrollTo({
-          top: section.offsetTop - 80, // Adjust the scroll position to account for the fixed navbar
-          behavior: 'smooth'
-        });
-      }
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(reg => console.log('Service Worker registered', reg))
+        .catch(err => console.error('Service Worker registration failed', err));
     }
-    const swiper = new Swiper('.swiper-container', {
-    loop: true, // Enable infinite loop
-    autoplay: {
-      delay: 5000, // Delay between slides in ms
-      disableOnInteraction: false, // Keep autoplay running even after interaction
-    },
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-  });
   </script>
-  
 </body>
 </html>
