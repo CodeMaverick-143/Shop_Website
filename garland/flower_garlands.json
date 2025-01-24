@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Jasmine Garland",
+        "description": "A fresh garland made of fragrant jasmine flowers.",
+        "inStock": true,
+        "image": "/garland/photos/jasmine/garland1.png"
+    },
+    {
+        "id": 2,
+        "name": "Marigold Garland",
+        "description": "A vibrant garland of marigold flowers, perfect for celebrations.",
+        "inStock": false,
+        "image": "/garland/photos/marigold/garland2.png"
+    },
+    {
+        "id": 3,
+        "name": "Rose Garland",
+        "description": "A beautiful garland made of fresh red and pink roses.",
+        "inStock": true,
+        "image": "/garland/photos/rose/garland3.png"
+    },
+    {
+        "id": 4,
+        "name": "Lotus Garland",
+        "description": "A delicate garland made with fresh lotus flowers.",
+        "inStock": true,
+        "image": "/garland/photos/lotus/garland4.png"
+    },
+    {
+        "id": 5,
+        "name": "Chrysanthemum Garland",
+        "description": "A colorful garland made of chrysanthemums in different shades.",
+        "inStock": true,
+        "image": "/garland/photos/chrysanthemum/garland5.png"
+    },
+    {
+        "id": 6,
+        "name": "Tulip Garland",
+        "description": "A fresh garland featuring beautiful tulips in various colors.",
+        "inStock": false,
+        "image": "/garland/photos/tulip/garland6.png"
+    },
+    {
+        "id": 7,
+        "name": "Hibiscus Garland",
+        "description": "A stunning garland made of hibiscus flowers in red and pink.",
+        "inStock": true,
+        "image": "/garland/photos/hibiscus/garland7.png"
+    },
+    {
+        "id": 8,
+        "name": "Marigold & Jasmine Garland",
+        "description": "A beautiful mix of marigold and jasmine flowers for a fragrant garland.",
+        "inStock": true,
+        "image": "/garland/photos/marigold-jasmine/garland8.png"
+    },
+    {
+        "id": 9,
+        "name": "Mango Blossom Garland",
+        "description": "A garland made of fragrant mango blossoms, perfect for auspicious occasions.",
+        "inStock": true,
+        "image": "/garland/photos/mango-blossom/garland9.png"
+    },
+    {
+        "id": 10,
+        "name": "Frangipani Garland",
+        "description": "A beautiful garland made from frangipani flowers, known for their sweet fragrance.",
+        "inStock": true,
+        "image": "/garland/photos/frangipani/garland10.png"
+    },
+    {
+        "id": 11,
+        "name": "Tuberose Garland",
+        "description": "A fragrant garland made of fresh tuberose flowers.",
+        "inStock": false,
+        "image": "/garland/photos/tuberose/garland11.png"
+    },
+    {
+        "id": 12,
+        "name": "Sunflower Garland",
+        "description": "A cheerful garland made with bright yellow sunflowers.",
+        "inStock": true,
+        "image": "/garland/photos/sunflower/garland12.png"
+    },
+    {
+        "id": 13,
+        "name": "Bougainvillea Garland",
+        "description": "A vibrant garland made with colorful bougainvillea flowers.",
+        "inStock": true,
+        "image": "/garland/photos/bougainvillea/garland13.png"
+    },
+    {
+        "id": 14,
+        "name": "Lily Garland",
+        "description": "An elegant garland made with white and pink lilies.",
+        "inStock": true,
+        "image": "/garland/photos/lily/garland14.png"
+    },
+    {
+        "id": 15,
+        "name": "Zinnia Garland",
+        "description": "A beautiful garland made of zinnia flowers in multiple colors.",
+        "inStock": true,
+        "image": "/garland/photos/zinnia/garland15.png"
+    },
+    {
+        "id": 16,
+        "name": "Aster Garland",
+        "description": "A fresh garland made of vibrant aster flowers.",
+        "inStock": false,
+        "image": "/garland/photos/aster/garland16.png"
+    },
+    {
+        "id": 17,
+        "name": "Gerbera Garland",
+        "description": "A cheerful garland made with gerbera daisies in bright hues.",
+        "inStock": true,
+        "image": "/garland/photos/gerbera/garland17.png"
+    },
+    {
+        "id": 18,
+        "name": "Carnation Garland",
+        "description": "A beautiful garland made of fragrant carnations in a mix of colors.",
+        "inStock": true,
+        "image": "/garland/photos/carnation/garland18.png"
+    },
+    {
+        "id": 19,
+        "name": "Jasmine & Rose Garland",
+        "description": "A fragrant garland combining jasmine and rose flowers.",
+        "inStock": true,
+        "image": "/garland/photos/jasmine-rose/garland19.png"
+    },
+    {
+        "id": 20,
+        "name": "Magnolia Garland",
+        "description": "A delicate and fragrant garland made of magnolia flowers.",
+        "inStock": true,
+        "image": "/garland/photos/magnolia/garland20.png"
+    },
+    {
+        "id": 21,
+        "name": "Daisy Garland",
+        "description": "A fresh garland of daisies, perfect for a light and airy look.",
+        "inStock": true,
+        "image": "/garland/photos/daisy/garland21.png"
+    },
+    {
+        "id": 22,
+        "name": "Peony Garland",
+        "description": "A delicate garland made of peonies in soft pinks and whites.",
+        "inStock": true,
+        "image": "/garland/photos/peony/garland22.png"
+    },
+    {
+        "id": 23,
+        "name": "Lotus & Jasmine Garland",
+        "description": "A mix of lotus and jasmine flowers for a fragrant, serene garland.",
+        "inStock": true,
+        "image": "/garland/photos/lotus-jasmine/garland23.png"
+    },
+    {
+        "id": 24,
+        "name": "Hibiscus & Marigold Garland",
+        "description": "A beautiful mix of hibiscus and marigold flowers.",
+        "inStock": false,
+        "image": "/garland/photos/hibiscus-marigold/garland24.png"
+    },
+    {
+        "id": 25,
+        "name": "Bougainvillea & Jasmine Garland",
+        "description": "A vibrant and fragrant garland made from bougainvillea and jasmine.",
+        "inStock": true,
+        "image": "/garland/photos/bougainvillea-jasmine/garland25.png"
+    },
+    {
+        "id": 26,
+        "name": "Lily & Rose Garland",
+        "description": "An elegant garland made with lilies and roses.",
+        "inStock": true,
+        "image": "/garland/photos/lily-rose/garland26.png"
+    },
+    {
+        "id": 27,
+        "name": "Marigold & Hibiscus Garland",
+        "description": "A striking garland made with marigold and hibiscus flowers.",
+        "inStock": false,
+        "image": "/garland/photos/marigold-hibiscus/garland27.png"
+    },
+    {
+        "id": 28,
+        "name": "Sunflower & Daisy Garland",
+        "description": "A cheerful garland made with sunflowers and daisies.",
+        "inStock": true,
+        "image": "/garland/photos/sunflower-daisy/garland28.png"
+    },
+    {
+        "id": 29,
+        "name": "Peony & Tulip Garland",
+        "description": "A delicate garland made with peonies and tulips.",
+        "inStock": true,
+        "image": "/garland/photos/peony-tulip/garland29.png"
+    },
+    {
+        "id": 30,
+        "name": "Frangipani & Rose Garland",
+        "description": "A fragrant garland made of frangipani and roses.",
+        "inStock": true,
+        "image": "/garland/photos/frangipani-rose/garland30.png"
+    }
+]

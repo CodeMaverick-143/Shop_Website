@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Colorful Delight",
+        "description": "A vibrant mix of roses, tulips, and daisies for a cheerful feel.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed1.png"
+    },
+    {
+        "id": 2,
+        "name": "Tropical Fantasy",
+        "description": "A tropical mix with exotic flowers like orchids and lilies.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed2.png"
+    },
+    {
+        "id": 3,
+        "name": "Spring Bloom",
+        "description": "A refreshing mix of spring flowers including peonies and daffodils.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed3.png"
+    },
+    {
+        "id": 4,
+        "name": "Sunset Bouquet",
+        "description": "A romantic mix of roses and sunflowers, perfect for evening events.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed4.png"
+    },
+    {
+        "id": 5,
+        "name": "Pastel Paradise",
+        "description": "A soft and elegant mix of pastel roses, lilies, and lavender.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed5.png"
+    },
+    {
+        "id": 6,
+        "name": "Bright Morning",
+        "description": "A cheerful mix of sunflowers, daisies, and tulips to start your day.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed6.png"
+    },
+    {
+        "id": 7,
+        "name": "Lavender Dream",
+        "description": "A soothing mix of lavender, roses, and violets for a calm vibe.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed7.png"
+    },
+    {
+        "id": 8,
+        "name": "Autumn Bliss",
+        "description": "A beautiful mix of chrysanthemums and autumn leaves.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed8.png"
+    },
+    {
+        "id": 9,
+        "name": "Evening Glow",
+        "description": "A romantic mix of roses, lilies, and soft candlelight tones.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed9.png"
+    },
+    {
+        "id": 10,
+        "name": "Peony Passion",
+        "description": "A bouquet of peonies and sweet-smelling roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed10.png"
+    },
+    {
+        "id": 11,
+        "name": "Summer Breeze",
+        "description": "A bright mix of sunflowers and tropical flowers.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed11.png"
+    },
+    {
+        "id": 12,
+        "name": "Pink Serenade",
+        "description": "Soft pink roses and delicate baby breath.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed12.png"
+    },
+    {
+        "id": 13,
+        "name": "Golden Glow",
+        "description": "A warm mix of golden sunflowers, roses, and marigolds.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed13.png"
+    },
+    {
+        "id": 14,
+        "name": "Rose Garden",
+        "description": "A mix of roses in various shades for a timeless bouquet.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed14.png"
+    },
+    {
+        "id": 15,
+        "name": "Eternal Spring",
+        "description": "A vibrant mix of tulips, daffodils, and daisies.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed15.png"
+    },
+    {
+        "id": 16,
+        "name": "Citrus Zing",
+        "description": "A refreshing mix of oranges, lemons, and fragrant roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed16.png"
+    },
+    {
+        "id": 17,
+        "name": "Royal Celebration",
+        "description": "Luxurious roses mixed with purple orchids and lilies.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed17.png"
+    },
+    {
+        "id": 18,
+        "name": "Dreamy Night",
+        "description": "A deep mix of purple, blue, and violet flowers.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed18.png"
+    },
+    {
+        "id": 19,
+        "name": "Tropical Breeze",
+        "description": "A tropical bouquet with exotic flowers like hibiscus and bird of paradise.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed19.png"
+    },
+    {
+        "id": 20,
+        "name": "Sunset Dreams",
+        "description": "A warm mix of roses, daisies, and sunflowers in sunset hues.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed20.png"
+    },
+    {
+        "id": 21,
+        "name": "Whimsical Wonders",
+        "description": "A playful mix of roses, tulips, and daisies for a magical touch.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed21.png"
+    },
+    {
+        "id": 22,
+        "name": "Red Passion",
+        "description": "A mix of deep red roses and elegant calla lilies.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed22.png"
+    },
+    {
+        "id": 23,
+        "name": "Frosted Morning",
+        "description": "A frosty bouquet with white roses and ice-blue petals.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed23.png"
+    },
+    {
+        "id": 24,
+        "name": "Wildflower Wonders",
+        "description": "A wild mix of colorful flowers for a natural, earthy look.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed24.png"
+    },
+    {
+        "id": 25,
+        "name": "Heavenly Blooms",
+        "description": "A heavenly mix of lilies, orchids, and roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed25.png"
+    },
+    {
+        "id": 26,
+        "name": "Blooming Bliss",
+        "description": "A blissful mix of roses, peonies, and lilies.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed26.png"
+    },
+    {
+        "id": 27,
+        "name": "Midnight Magic",
+        "description": "A magical bouquet of dark roses and orchids.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed27.png"
+    },
+    {
+        "id": 28,
+        "name": "Ethereal Dream",
+        "description": "A light, airy bouquet with pale roses and orchids.",
+        "inStock": false,
+        "image": "/bouquet/photos/mixed/mixed28.png"
+    },
+    {
+        "id": 29,
+        "name": "Golden Jubilee",
+        "description": "A celebration of golden roses, lilies, and sunflowers.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed29.png"
+    },
+    {
+        "id": 30,
+        "name": "Mystic Charm",
+        "description": "A mystical bouquet of deep purple roses, lilies, and orchids.",
+        "inStock": true,
+        "image": "/bouquet/photos/mixed/mixed30.png"
+    }
+]

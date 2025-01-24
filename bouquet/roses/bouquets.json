@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "name": "Red Romance",
+        "description": "A classic bouquet of red roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses1.png"
+    },
+    {
+        "id": 2,
+        "name": "Pink Bliss",
+        "description": "Soft pink roses to brighten anyone's day.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses2.png"
+    },
+    {
+        "id": 3,
+        "name": "Golden Sunrise",
+        "description": "A mix of yellow roses for a cheerful vibe.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses3.png"
+    },
+    {
+        "id": 4,
+        "name": "White Elegance",
+        "description": "Pure white roses for special occasions.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lavender Love",
+        "description": "A stunning bouquet of lavender roses.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sunset Dream",
+        "description": "Vibrant oranges and reds in a beautiful bouquet.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses6.png"
+    },
+    {
+        "id": 7,
+        "name": "Crisp Snowfall",
+        "description": "A bouquet of white roses with delicate greenery.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses7.png"
+    },
+    {
+        "id": 8,
+        "name": "Golden Glow",
+        "description": "A touch of gold with yellow roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses8.png"
+    },
+    {
+        "id": 9,
+        "name": "Ruby Splendor",
+        "description": "Rich red roses with a luxurious feel.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses9.png"
+    },
+    {
+        "id": 10,
+        "name": "Pink Delight",
+        "description": "Delicate pink roses perfect for any occasion.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses10.png"
+    },
+    {
+        "id": 11,
+        "name": "Purple Charm",
+        "description": "A charming mix of purple and pink roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses11.png"
+    },
+    {
+        "id": 12,
+        "name": "Blush Beauty",
+        "description": "Soft blush-colored roses for a gentle touch.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses12.png"
+    },
+    {
+        "id": 13,
+        "name": "Summer Breeze",
+        "description": "Light and fresh mix of white and yellow roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses13.png"
+    },
+    {
+        "id": 14,
+        "name": "Ocean Serenity",
+        "description": "A serene bouquet of blue and white roses.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses14.png"
+    },
+    {
+        "id": 15,
+        "name": "Autumn Bliss",
+        "description": "A rich blend of fall colors with roses and foliage.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses15.png"
+    },
+    {
+        "id": 16,
+        "name": "Violet Star",
+        "description": "A striking bouquet with purple roses and stars.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses16.png"
+    },
+    {
+        "id": 17,
+        "name": "Scarlet Embrace",
+        "description": "Vibrant scarlet roses to express passion.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses17.png"
+    },
+    {
+        "id": 18,
+        "name": "Peach Delight",
+        "description": "Soft peach roses for a warm and comforting bouquet.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses18.png"
+    },
+    {
+        "id": 19,
+        "name": "Frosted Rose",
+        "description": "Delicate white roses with a frosted touch.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses19.png"
+    },
+    {
+        "id": 20,
+        "name": "Sunshine Glow",
+        "description": "A bouquet of bright yellow roses to uplift spirits.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses20.png"
+    },
+    {
+        "id": 21,
+        "name": "Midnight Dream",
+        "description": "Dark roses with a mystical feel.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses21.png"
+    },
+    {
+        "id": 22,
+        "name": "Lavender Fields",
+        "description": "A soft and fragrant bouquet of lavender roses.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses22.png"
+    },
+    {
+        "id": 23,
+        "name": "Tropical Paradise",
+        "description": "A vibrant bouquet of tropical flowers and roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses23.png"
+    },
+    {
+        "id": 24,
+        "name": "Cherry Blossom",
+        "description": "Delicate pink roses resembling cherry blossoms.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses24.png"
+    },
+    {
+        "id": 25,
+        "name": "Midday Rose",
+        "description": "Bright roses to match the midday sun.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses25.png"
+    },
+    {
+        "id": 26,
+        "name": "Moonlight Kiss",
+        "description": "A romantic bouquet with soft white roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses26.png"
+    },
+    {
+        "id": 27,
+        "name": "Autumn Leaves",
+        "description": "A mix of orange and red roses inspired by autumn leaves.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses27.png"
+    },
+    {
+        "id": 28,
+        "name": "Enchanted Garden",
+        "description": "A mystical mix of roses and greenery.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses28.png"
+    },
+    {
+        "id": 29,
+        "name": "Berry Bliss",
+        "description": "Roses with rich berry tones.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses29.png"
+    },
+    {
+        "id": 30,
+        "name": "Soft Dreams",
+        "description": "A soft bouquet of light pink and white roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses30.png"
+    },
+    {
+        "id": 31,
+        "name": "Moonlit Beauty",
+        "description": "A romantic mix of dark and light roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses31.png"
+    },
+    {
+        "id": 32,
+        "name": "Morning Dew",
+        "description": "Fresh and delicate roses inspired by morning dew.",
+        "inStock": false,
+        "image": "/bouquet/photos/roses/roses32.png"
+    },
+    {
+        "id": 33,
+        "name": "Mystic Rose",
+        "description": "A bouquet of mysterious and dark roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses33.png"
+    },
+    {
+        "id": 34,
+        "name": "Coral Wonder",
+        "description": "Coral roses for a warm and beautiful bouquet.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses34.png"
+    },
+    {
+        "id": 35,
+        "name": "Royal Majesty",
+        "description": "Luxurious bouquet of royal purple roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/roses/roses35.png"
+    }
+]

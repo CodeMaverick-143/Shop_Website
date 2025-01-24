@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "name": "Pure Elegance",
+        "description": "A graceful bouquet of white roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white1.png"
+    },
+    {
+        "id": 2,
+        "name": "Snowy Bliss",
+        "description": "White lilies mixed with roses for a refreshing touch.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white2.png"
+    },
+    {
+        "id": 3,
+        "name": "Ivory Beauty",
+        "description": "A stunning bouquet of ivory roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white3.png"
+    },
+    {
+        "id": 4,
+        "name": "Frosted Grace",
+        "description": "White chrysanthemums and delicate greenery.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white4.png"
+    },
+    {
+        "id": 5,
+        "name": "Winter Wonderland",
+        "description": "White roses and eucalyptus for a frosty look.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white5.png"
+    },
+    {
+        "id": 6,
+        "name": "Dewdrop Bliss",
+        "description": "A mix of white roses and fresh daisies.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white6.png"
+    },
+    {
+        "id": 7,
+        "name": "Pearl Dream",
+        "description": "A luxurious bouquet of white peonies.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white7.png"
+    },
+    {
+        "id": 8,
+        "name": "Crystal Breeze",
+        "description": "A fresh bouquet of white tulips.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white8.png"
+    },
+    {
+        "id": 9,
+        "name": "White Serenity",
+        "description": "A peaceful mix of white roses and lilies.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white9.png"
+    },
+    {
+        "id": 10,
+        "name": "Silent Snow",
+        "description": "Delicate white orchids with a soft fragrance.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white10.png"
+    },
+    {
+        "id": 11,
+        "name": "White Swan",
+        "description": "Pure white carnations and roses.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white11.png"
+    },
+    {
+        "id": 12,
+        "name": "Blossom Snow",
+        "description": "Snowy white roses with a touch of greenery.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white12.png"
+    },
+    {
+        "id": 13,
+        "name": "Moonlit Lily",
+        "description": "A stunning mix of white lilies.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white13.png"
+    },
+    {
+        "id": 14,
+        "name": "Frosted Blossom",
+        "description": "Elegant white gardenias with soft green accents.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white14.png"
+    },
+    {
+        "id": 15,
+        "name": "Celestial Dream",
+        "description": "A bouquet of soft white hydrangeas.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white15.png"
+    },
+    {
+        "id": 16,
+        "name": "Ivory Snowflakes",
+        "description": "White roses and snowdrops for a wintery feel.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white16.png"
+    },
+    {
+        "id": 17,
+        "name": "Alpine Grace",
+        "description": "White lilies with a crisp green touch.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white17.png"
+    },
+    {
+        "id": 18,
+        "name": "Soft Cloud",
+        "description": "Delicate white freesia with a cloud-like feel.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white18.png"
+    },
+    {
+        "id": 19,
+        "name": "Snowfall Delight",
+        "description": "A beautiful white bouquet with mixed flowers.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white19.png"
+    },
+    {
+        "id": 20,
+        "name": "Ivory Dream",
+        "description": "Soft ivory roses for a gentle bouquet.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white20.png"
+    },
+    {
+        "id": 21,
+        "name": "Winter Rose",
+        "description": "A white rose with frosted tips.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white21.png"
+    },
+    {
+        "id": 22,
+        "name": "White Orchid Bliss",
+        "description": "Elegant white orchids with fresh greenery.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white22.png"
+    },
+    {
+        "id": 23,
+        "name": "Opal Radiance",
+        "description": "A radiant bouquet of white lilies.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white23.png"
+    },
+    {
+        "id": 24,
+        "name": "Soft Breeze",
+        "description": "White roses with soft greenery and accents.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white24.png"
+    },
+    {
+        "id": 25,
+        "name": "Ivory Rose",
+        "description": "Elegant ivory roses with a light fragrance.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white25.png"
+    },
+    {
+        "id": 26,
+        "name": "Snowy Glimmer",
+        "description": "White carnations with a gentle glimmer effect.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white26.png"
+    },
+    {
+        "id": 27,
+        "name": "Frosted Dreams",
+        "description": "A soft bouquet of white roses with misty accents.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white27.png"
+    },
+    {
+        "id": 28,
+        "name": "White Embrace",
+        "description": "A beautiful embrace of white flowers.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white28.png"
+    },
+    {
+        "id": 29,
+        "name": "Crystal Waters",
+        "description": "Pure white tulips mixed with lilies.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white29.png"
+    },
+    {
+        "id": 30,
+        "name": "Soft Snow",
+        "description": "A soft bouquet of white roses with subtle accents.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white30.png"
+    },
+    {
+        "id": 31,
+        "name": "Alpine Bloom",
+        "description": "A bouquet of white roses and white hydrangeas.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white31.png"
+    },
+    {
+        "id": 32,
+        "name": "Lily Snow",
+        "description": "White lilies for a calm and peaceful bouquet.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white32.png"
+    },
+    {
+        "id": 33,
+        "name": "Frozen Essence",
+        "description": "White roses with a frozen dew effect.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white33.png"
+    },
+    {
+        "id": 34,
+        "name": "Winter Solstice",
+        "description": "A beautiful white bouquet with hints of silver.",
+        "inStock": true,
+        "image": "/bouquet/photos/white/white34.png"
+    },
+    {
+        "id": 35,
+        "name": "Snowy White",
+        "description": "A simple and elegant white bouquet.",
+        "inStock": false,
+        "image": "/bouquet/photos/white/white35.png"
+    }
+]
